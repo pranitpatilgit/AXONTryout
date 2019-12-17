@@ -1,0 +1,51 @@
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### Custom ###
+target
+.svn
+*.iml
+*.log
+*.log.?
+.settings
+.idea
+.project
+.classpath
+.factorypath
+.springBeans
+maven-install.log
+.DS_Store
+rebel.xml
+bin
+dependency-reduced-pom.xml
+config.codekit
+.metadata
+.mvn
+/.mvn/
+mvnw
+mvnw.cmd
+.flattened-pom.xml
